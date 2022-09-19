@@ -1,0 +1,147 @@
+body{
+    background-color: #FCF7F1;
+}
+
+h1{
+    color: #FDB159;
+    font-family: serif;
+    height: 30px;
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+
+h3{
+    color: #FDB159;
+    font-family: serif;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 5px;
+}
+
+h4{
+    color: #FDB159;
+    font-family: "Helvetica", "Verdana", sans-serif;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+h5{
+    color: #FDB159;
+    font-family: fantasy;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+ul{
+    color: #FDB159;
+    font-family: "Monaco", monospace;
+    font-size: 13px;
+    text-align: inherit;
+    padding-bottom: 5px;
+    outline-style: double;
+}
+
+ol{
+    color: #FDB159;
+    font-family: "Georgia", serif;
+    font-size: 15px;
+    text-align: inherit;
+    padding-bottom: 10px;
+}
+
+li{
+    color: #FDB159;
+    padding-left: 40px;
+}
+
+p{
+    color: #FCF7F1;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    background-color: darkseagreen;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: darkseagreen;
+    padding: 2px;
+}
+
+.ingredients{
+    color: #FDB159;
+    text-align: inherit;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.nutrition{
+    color: darkseagreen;
+    text-align: center;
+}
+
+.nutritionfacts{
+    color: #FCF7F1;
+    width: 1000px;
+    margin: auto;
+    background-color: darkseagreen;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: darkseagreen;
+    padding: 15px 10px 15px 10px;
+}
+
+.navbar{
+    list-style: none;
+    background-color: darkseagreen;
+    margin: 0px auto;
+    padding: 8px 8px;
+    width: 500;
+    text-align: center;
+}
+
+.navbar li{
+    display: inline-block;
+}
+
+.navbar li a{
+    color: #FCF7F1;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 50px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.navbar li a:hover{
+    background-color: #FBD6B9;
+    padding: 12px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.imgGallery{
+    width: 1000px;
+    margin: 0px auto;
+    margin-bottom: 25px;
+    margin-top: -5px;
+}
+
+.imgGallery td{
+    padding: 17px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+    
+
